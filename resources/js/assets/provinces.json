@@ -1,0 +1,443 @@
+[
+  {
+    "name": "An Giang",
+    "slug": "an-giang",
+    "type": "tinh",
+    "text": "Tỉnh An Giang",
+    "id": "89"
+  },
+  {
+    "name": "Kon Tum",
+    "slug": "kon-tum",
+    "type": "tinh",
+    "text": "Tỉnh Kon Tum",
+    "id": "62"
+  },
+  {
+    "name": "Đắk Nông",
+    "slug": "dak-nong",
+    "type": "tinh",
+    "text": "Tỉnh Đắk Nông",
+    "id": "67"
+  },
+  {
+    "name": "Sóc Trăng",
+    "slug": "soc-trang",
+    "type": "tinh",
+    "text": "Tỉnh Sóc Trăng",
+    "id": "94"
+  },
+  {
+    "name": "Bình Phước",
+    "slug": "binh-phuoc",
+    "type": "tinh",
+    "text": "Tỉnh Bình Phước",
+    "id": "70"
+  },
+  {
+    "name": "Hưng Yên",
+    "slug": "hung-yen",
+    "type": "tinh",
+    "text": "Tỉnh Hưng Yên",
+    "id": "33"
+  },
+  {
+    "name": "Thanh Hóa",
+    "slug": "thanh-hoa",
+    "type": "tinh",
+    "text": "Tỉnh Thanh Hóa",
+    "id": "38"
+  },
+  {
+    "name": "Quảng Trị",
+    "slug": "quang-tri",
+    "type": "tinh",
+    "text": "Tỉnh Quảng Trị",
+    "id": "45"
+  },
+  {
+    "name": "Tuyên Quang",
+    "slug": "tuyen-quang",
+    "type": "tinh",
+    "text": "Tỉnh Tuyên Quang",
+    "id": "08"
+  },
+  {
+    "name": "Quảng Ngãi",
+    "slug": "quang-ngai",
+    "type": "tinh",
+    "text": "Tỉnh Quảng Ngãi",
+    "id": "51"
+  },
+  {
+    "name": "Hà Nội",
+    "slug": "ha-noi",
+    "type": "thanh-pho",
+    "text": "Thành phố Hà Nội",
+    "id": "01"
+  },
+  {
+    "name": "Lào Cai",
+    "slug": "lao-cai",
+    "type": "tinh",
+    "text": "Tỉnh Lào Cai",
+    "id": "10"
+  },
+  {
+    "name": "Vĩnh Long",
+    "slug": "vinh-long",
+    "type": "tinh",
+    "text": "Tỉnh Vĩnh Long",
+    "id": "86"
+  },
+  {
+    "name": "Lâm Đồng",
+    "slug": "lam-dong",
+    "type": "tinh",
+    "text": "Tỉnh Lâm Đồng",
+    "id": "68"
+  },
+  {
+    "name": "Bình Định",
+    "slug": "binh-dinh",
+    "type": "tinh",
+    "text": "Tỉnh Bình Định",
+    "id": "52"
+  },
+  {
+    "name": "Nghệ An",
+    "slug": "nghe-an",
+    "type": "tinh",
+    "text": "Tỉnh Nghệ An",
+    "id": "40"
+  },
+  {
+    "name": "Kiên Giang",
+    "slug": "kien-giang",
+    "type": "tinh",
+    "text": "Tỉnh Kiên Giang",
+    "id": "91"
+  },
+  {
+    "name": "Hà Giang",
+    "slug": "ha-giang",
+    "type": "tinh",
+    "text": "Tỉnh Hà Giang",
+    "id": "02"
+  },
+  {
+    "name": "Phú Yên",
+    "slug": "phu-yen",
+    "type": "tinh",
+    "text": "Tỉnh Phú Yên",
+    "id": "54"
+  },
+  {
+    "name": "Lạng Sơn",
+    "slug": "lang-son",
+    "type": "tinh",
+    "text": "Tỉnh Lạng Sơn",
+    "id": "20"
+  },
+  {
+    "name": "Đà Nẵng",
+    "slug": "da-nang",
+    "type": "thanh-pho",
+    "text": "Thành phố Đà Nẵng",
+    "id": "48"
+  },
+  {
+    "name": "Sơn La",
+    "slug": "son-la",
+    "type": "tinh",
+    "text": "Tỉnh Sơn La",
+    "id": "14"
+  },
+  {
+    "name": "Tây Ninh",
+    "slug": "tay-ninh",
+    "type": "tinh",
+    "text": "Tỉnh Tây Ninh",
+    "id": "72"
+  },
+  {
+    "name": "Nam Định",
+    "slug": "nam-dinh",
+    "type": "tinh",
+    "text": "Tỉnh Nam Định",
+    "id": "36"
+  },
+  {
+    "name": "Lai Châu",
+    "slug": "lai-chau",
+    "type": "tinh",
+    "text": "Tỉnh Lai Châu",
+    "id": "12"
+  },
+  {
+    "name": "Bến Tre",
+    "slug": "ben-tre",
+    "type": "tinh",
+    "text": "Tỉnh Bến Tre",
+    "id": "83"
+  },
+  {
+    "name": "Khánh Hòa",
+    "slug": "khanh-hoa",
+    "type": "tinh",
+    "text": "Tỉnh Khánh Hòa",
+    "id": "56"
+  },
+  {
+    "name": "Bình Thuận",
+    "slug": "binh-thuan",
+    "type": "tinh",
+    "text": "Tỉnh Bình Thuận",
+    "id": "60"
+  },
+  {
+    "name": "Cao Bằng",
+    "slug": "cao-bang",
+    "type": "tinh",
+    "text": "Tỉnh Cao Bằng",
+    "id": "04"
+  },
+  {
+    "name": "Hải Phòng",
+    "slug": "hai-phong",
+    "type": "thanh-pho",
+    "text": "Thành phố Hải Phòng",
+    "id": "31"
+  },
+  {
+    "name": "Ninh Bình",
+    "slug": "ninh-binh",
+    "type": "tinh",
+    "text": "Tỉnh Ninh Bình",
+    "id": "37"
+  },
+  {
+    "name": "Yên Bái",
+    "slug": "yen-bai",
+    "type": "tinh",
+    "text": "Tỉnh Yên Bái",
+    "id": "15"
+  },
+  {
+    "name": "Gia Lai",
+    "slug": "gia-lai",
+    "type": "tinh",
+    "text": "Tỉnh Gia Lai",
+    "id": "64"
+  },
+  {
+    "name": "Hoà Bình",
+    "slug": "hoa-binh",
+    "type": "tinh",
+    "text": "Tỉnh Hoà Bình",
+    "id": "17"
+  },
+  {
+    "name": "Bà Rịa - Vũng Tàu",
+    "slug": "ba-ria-vung-tau",
+    "type": "tinh",
+    "text": "Tỉnh Bà Rịa - Vũng Tàu",
+    "id": "77"
+  },
+  {
+    "name": "Cà Mau",
+    "slug": "ca-mau",
+    "type": "tinh",
+    "text": "Tỉnh Cà Mau",
+    "id": "96"
+  },
+  {
+    "name": "Bình Dương",
+    "slug": "binh-duong",
+    "type": "tinh",
+    "text": "Tỉnh Bình Dương",
+    "id": "74"
+  },
+  {
+    "name": "Cần Thơ",
+    "slug": "can-tho",
+    "type": "thanh-pho",
+    "text": "Thành phố Cần Thơ",
+    "id": "92"
+  },
+  {
+    "name": "Thừa Thiên Huế",
+    "slug": "thua-thien-hue",
+    "type": "tinh",
+    "text": "Tỉnh Thừa Thiên Huế",
+    "id": "46"
+  },
+  {
+    "name": "Đồng Nai",
+    "slug": "dong-nai",
+    "type": "tinh",
+    "text": "Tỉnh Đồng Nai",
+    "id": "75"
+  },
+  {
+    "name": "Tiền Giang",
+    "slug": "tien-giang",
+    "type": "tinh",
+    "text": "Tỉnh Tiền Giang",
+    "id": "82"
+  },
+  {
+    "name": "Điện Biên",
+    "slug": "dien-bien",
+    "type": "tinh",
+    "text": "Tỉnh Điện Biên",
+    "id": "11"
+  },
+  {
+    "name": "Vĩnh Phúc",
+    "slug": "vinh-phuc",
+    "type": "tinh",
+    "text": "Tỉnh Vĩnh Phúc",
+    "id": "26"
+  },
+  {
+    "name": "Quảng Nam",
+    "slug": "quang-nam",
+    "type": "tinh",
+    "text": "Tỉnh Quảng Nam",
+    "id": "49"
+  },
+  {
+    "name": "Đắk Lắk",
+    "slug": "dak-lak",
+    "type": "tinh",
+    "text": "Tỉnh Đắk Lắk",
+    "id": "66"
+  },
+  {
+    "name": "Thái Nguyên",
+    "slug": "thai-nguyen",
+    "type": "tinh",
+    "text": "Tỉnh Thái Nguyên",
+    "id": "19"
+  },
+  {
+    "name": "Hải Dương",
+    "slug": "hai-duong",
+    "type": "tinh",
+    "text": "Tỉnh Hải Dương",
+    "id": "30"
+  },
+  {
+    "name": "Bạc Liêu",
+    "slug": "bac-lieu",
+    "type": "tinh",
+    "text": "Tỉnh Bạc Liêu",
+    "id": "95"
+  },
+  {
+    "name": "Trà Vinh",
+    "slug": "tra-vinh",
+    "type": "tinh",
+    "text": "Tỉnh Trà Vinh",
+    "id": "84"
+  },
+  {
+    "name": "Thái Bình",
+    "slug": "thai-binh",
+    "type": "tinh",
+    "text": "Tỉnh Thái Bình",
+    "id": "34"
+  },
+  {
+    "name": "Hà Tĩnh",
+    "slug": "ha-tinh",
+    "type": "tinh",
+    "text": "Tỉnh Hà Tĩnh",
+    "id": "42"
+  },
+  {
+    "name": "Ninh Thuận",
+    "slug": "ninh-thuan",
+    "type": "tinh",
+    "text": "Tỉnh Ninh Thuận",
+    "id": "58"
+  },
+  {
+    "name": "Đồng Tháp",
+    "slug": "dong-thap",
+    "type": "tinh",
+    "text": "Tỉnh Đồng Tháp",
+    "id": "87"
+  },
+  {
+    "name": "Long An",
+    "slug": "long-an",
+    "type": "tinh",
+    "text": "Tỉnh Long An",
+    "id": "80"
+  },
+  {
+    "name": "Hậu Giang",
+    "slug": "hau-giang",
+    "type": "tinh",
+    "text": "Tỉnh Hậu Giang",
+    "id": "93"
+  },
+  {
+    "name": "Quảng Ninh",
+    "slug": "quang-ninh",
+    "type": "tinh",
+    "text": "Tỉnh Quảng Ninh",
+    "id": "22"
+  },
+  {
+    "name": "Phú Thọ",
+    "slug": "phu-tho",
+    "type": "tinh",
+    "text": "Tỉnh Phú Thọ",
+    "id": "25"
+  },
+  {
+    "name": "Quảng Bình",
+    "slug": "quang-binh",
+    "type": "tinh",
+    "text": "Tỉnh Quảng Bình",
+    "id": "44"
+  },
+  {
+    "name": "Hồ Chí Minh",
+    "slug": "ho-chi-minh",
+    "type": "thanh-pho",
+    "text": "Thành phố Hồ Chí Minh",
+    "id": "79"
+  },
+  {
+    "name": "Hà Nam",
+    "slug": "ha-nam",
+    "type": "tinh",
+    "text": "Tỉnh Hà Nam",
+    "id": "35"
+  },
+  {
+    "name": "Bắc Ninh",
+    "slug": "bac-ninh",
+    "type": "tinh",
+    "text": "Tỉnh Bắc Ninh",
+    "id": "27"
+  },
+  {
+    "name": "Bắc Giang",
+    "slug": "bac-giang",
+    "type": "tinh",
+    "text": "Tỉnh Bắc Giang",
+    "id": "24"
+  },
+  {
+    "name": "Bắc Kạn",
+    "slug": "bac-kan",
+    "type": "tinh",
+    "text": "Tỉnh Bắc Kạn",
+    "id": "06"
+  }
+]
